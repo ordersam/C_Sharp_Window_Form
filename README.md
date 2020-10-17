@@ -1,5 +1,5 @@
 # C_Sharp_Window_Form
-### 點餐機
+### baby點餐機
 * 版本
   * v1.1 以陣列、文字檔儲存
   * v1.2 以LocalDB儲存；加上登入權限控管；並以Entity-Factory模式、LINQ改寫
