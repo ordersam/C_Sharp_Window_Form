@@ -9,4 +9,4 @@
 * Bug
   * v1.0-v1.1有點小Bug(不能點空白、點分類不能點太快)，v1.2之後修好
   * v1.2刪除餐廳餐點後，圖片庫沒有跟著刪除圖片Bug，v1.21修好
-* [Youtube Demo List(Click Me to Link)](https://www.youtube.com/watch?v=84u_OrMwQzY&list=PLEoUk0KiDdqJVWXtdYkk1Qa0Y7xaPkbCp)
+* [Youtube Demo List(Click Me to Link)](https://youtu.be/IPCL2wYZD7c)
